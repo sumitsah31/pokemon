@@ -24,13 +24,13 @@ body{
     width: 300px;
     background-color:#494e50;
     margin-right: 0%;
-    
+    color: azure;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     box-sizing: border-box;
-    border: solid black;
+    border: solid rgb(155, 7, 7);
 }
 .content{
     padding: 5px;
